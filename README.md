@@ -31,9 +31,9 @@ CCNA - Expected 2025
 
 ## Projects
 
-[Ubuntu - Scripts](https://github.com/flaureanonecc/Ubuntu-Networking-Scripts)
+[Ubuntu Scripts](https://github.com/flaureanonecc/Ubuntu-Networking-Scripts)
 
-[CentOS - Scripts](https://github.com/flaureanonecc/CentOS-Network-Scripts)
+[CentOS Scripts](https://github.com/flaureanonecc/CentOS-Network-Scripts)
 
 [Scripting Challenges](https://github.com/flaureanonecc/Linux-Command-Challenges)
 
