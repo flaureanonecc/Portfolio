@@ -41,12 +41,13 @@ Bachelors in Information Technology
 
 Western Governors University 2024-2025 (Projected)
 
-## Linux Administration Midterm Review / Post Mortem
-
-[Post Mortem](https://github.com/flaureanonecc/Post-Mortem/blob/main/Post%20Mortem.md)
+## Linux Administration Midterm Review
 
 [Midterm Prompts](https://github.com/flaureanonecc/Midterm-Prompts/tree/main)
 
+## Post Mortem
+
+[Post Mortem](https://github.com/flaureanonecc/Post-Mortem/blob/main/Post%20Mortem.md)
 
 ## Projects
 
