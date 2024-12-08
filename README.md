@@ -31,7 +31,7 @@ CCNA - Expected 2025
 
 ## Education
 
-CIS: Information Technology 2023-2024
+Associates of Science in CIS: Information Technology 2023-2024
 
 Northern Essex Community College
 
