@@ -51,12 +51,12 @@ CCNA - Expected 2025
 
 ## Education
 
-Associates of Science in CIS: Information Technology 2023-2024
+**Associates Degree** CIS: Information Technology 2023-2024
 
 Northern Essex Community College
 
 ##
 
-Bachelors in Information Technology
+**Bachelors Degree** Information Technology
 
 Western Governors University 2024-2025 (Projected)
