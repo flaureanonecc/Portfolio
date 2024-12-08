@@ -19,7 +19,7 @@ Networking
 Network Security
 
 
-##Certificates##  
+## Certificates  
 
 A+ - Achieved 2022
 
@@ -29,7 +29,7 @@ Security+ - Achieved 2024
 
 CCNA - Expected 2025
 
-##Projects##
+## Projects
 
 [Ubuntu Network - Scripts](https://github.com/flaureanonecc/Ubuntu-Networking-Scripts)
 
