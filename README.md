@@ -39,7 +39,7 @@ CCNA - Expected 2025
 
 [Documentation](https://github.com/flaureanonecc/Documentation)
 
-[Documentation](https://github.com/flaureanonecc/Splunk-Certs)
+[Splunk](https://github.com/flaureanonecc/Splunk-Certs)
 
 ## Midterm Prompts
 
