@@ -39,6 +39,7 @@ CCNA - Expected 2025
 
 [Documentation](https://github.com/flaureanonecc/Documentation)
 
+## Midterm Prompts
 
 1 Biggest Challenge so far?
 
@@ -60,3 +61,5 @@ I learned that Linux handles it's networking much more differently than Windows.
 5 One thing you want to add or change to make this portfolio better for the final
 
 I want to try to clean up the appeareance of the portfolio, maybe throw in some html to make it more readable and pretty. I think that the way it looks now is fine but I can upgrade the apperance of it which would make it more attractive to prospective employers.
+
+##  Final Prompts
