@@ -65,3 +65,22 @@ I learned that Linux handles it's networking much more differently than Windows.
 I want to try to clean up the appeareance of the portfolio, maybe throw in some html to make it more readable and pretty. I think that the way it looks now is fine but I can upgrade the apperance of it which would make it more attractive to prospective employers.
 
 ##  Final Prompts
+
+1. Are you proud of your finished deliverables? Why/Why not?
+
+2. What was the most frustrating/hard part? Why?
+
+3. What was the most gratifying/best part?  Why?
+
+4.  What would you do differently in the future to avoid the frustrating/hard part?
+
+5. If you had a magic wand that could change anything about this Portfolio, what would it be and why?
+
+6.  What grade would you give yourself for this Portfolio and why. 
+
+7.  If you were actually working at Acme corp what do you think your boss would say as your performance review?
+
+8.  If this was a real corporation, would you hire yourself based on your performance this term? Why or why not? What could you change in future to make yourself a more desirable hire?
+
+9.  Is there anything else you would like to include? If yes, please do so now.
+
